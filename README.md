@@ -1,5 +1,5 @@
 # John-Mayer
-Report produced as an evaluation criteria for the course 7230ICT Big Data Analytics and Social Media. 
+Report produced as part of an evaluation criteria for the course 7230ICT Big Data Analytics and Social Media. 
 
 Lecturer: Sebastian Binnewies
 
